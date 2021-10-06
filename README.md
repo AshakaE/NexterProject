@@ -1,4 +1,4 @@
-# Payment UI
+# Nexter Project
 
 This is a Landing page for real estate business, it's designed with the CSS grid system.
 
